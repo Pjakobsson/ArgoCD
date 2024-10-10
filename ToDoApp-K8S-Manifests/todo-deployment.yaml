@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-container
-        image: 84patjak/todoapp:d1447e051c7d270bf7f9343bc09124d2a23549d8
+        image: 84patjak/todoapp:6f4f06222ff1c16d8129113ef15636173151e88c
         ports:
         - containerPort: 80
         envFrom: 
